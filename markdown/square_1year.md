@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |336|[Palindrome Pairs]( https://leetcode.com/problems/palindrome-pairs)|33.7%|Hard|0.10501458755636292|
 |72|[Edit Distance]( https://leetcode.com/problems/edit-distance)|44.8%|Hard|0.08673866592531046|

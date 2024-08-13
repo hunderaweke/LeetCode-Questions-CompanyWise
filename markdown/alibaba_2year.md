@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |446|[Arithmetic Slices II - Subsequence]( https://leetcode.com/problems/arithmetic-slices-ii-subsequence)|32.7%|Hard|0.053390859053336806|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.04514397697084252|

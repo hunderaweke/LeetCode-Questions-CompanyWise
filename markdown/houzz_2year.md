@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |227|[Basic Calculator II]( https://leetcode.com/problems/basic-calculator-ii)|36.9%|Medium|0.10614463594818956|
 |43|[Multiply Strings]( https://leetcode.com/problems/multiply-strings)|33.9%|Medium|0.07944184170158367|

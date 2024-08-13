@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |740|[Delete and Earn]( https://leetcode.com/problems/delete-and-earn)|48.6%|Medium|0.3388354652429152|
 |547|[Friend Circles]( https://leetcode.com/problems/friend-circles)|58.6%|Medium|0.3127316472971021|

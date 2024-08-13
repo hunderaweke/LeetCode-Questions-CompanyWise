@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |273|[Integer to English Words]( https://leetcode.com/problems/integer-to-english-words)|27.1%|Hard|0.37861967367115135|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.3225459261278396|

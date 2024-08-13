@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1201|[Ugly Number III]( https://leetcode.com/problems/ugly-number-iii)|25.9%|Medium|0.2586674025861649|
 |1224|[Maximum Equal Frequency]( https://leetcode.com/problems/maximum-equal-frequency)|33.5%|Hard|0|

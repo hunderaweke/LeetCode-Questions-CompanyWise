@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |238|[Product of Array Except Self]( https://leetcode.com/problems/product-of-array-except-self)|60.1%|Medium|0.1924592954490137|
 |273|[Integer to English Words]( https://leetcode.com/problems/integer-to-english-words)|27.1%|Hard|0.1453851138462884|

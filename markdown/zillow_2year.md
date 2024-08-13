@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.17336380847901145|
 |387|[First Unique Character in a String]( https://leetcode.com/problems/first-unique-character-in-a-string)|53.4%|Easy|0.15790706492146894|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |735|[Asteroid Collision]( https://leetcode.com/problems/asteroid-collision)|41.0%|Medium|1.473090540195022|
 |238|[Product of Array Except Self]( https://leetcode.com/problems/product-of-array-except-self)|60.1%|Medium|1.0067649782470638|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |348|[Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe)|54.3%|Medium|0.8018302148834068|
 |712|[Minimum ASCII Delete Sum for Two Strings]( https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)|58.5%|Medium|0.5329919192232511|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |923|[3Sum With Multiplicity]( https://leetcode.com/problems/3sum-with-multiplicity)|35.7%|Medium|3.6540779400095724|
 |855|[Exam Room]( https://leetcode.com/problems/exam-room)|43.1%|Medium|2.227706389329833|

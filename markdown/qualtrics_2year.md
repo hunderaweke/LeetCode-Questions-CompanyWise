@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |695|[Max Area of Island]( https://leetcode.com/problems/max-area-of-island)|62.7%|Medium|0.20952332409775687|
 |127|[Word Ladder]( https://leetcode.com/problems/word-ladder)|29.6%|Medium|0.1667080439422554|

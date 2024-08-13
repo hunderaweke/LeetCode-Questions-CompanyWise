@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1294|[Weather Type in Each Country]( https://leetcode.com/problems/weather-type-in-each-country)|63.1%|Easy|0|
 |1321|[Restaurant Growth]( https://leetcode.com/problems/restaurant-growth)|67.9%|Medium|0|

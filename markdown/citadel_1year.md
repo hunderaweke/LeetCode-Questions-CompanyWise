@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |829|[Consecutive Numbers Sum]( https://leetcode.com/problems/consecutive-numbers-sum)|37.5%|Hard|1.0192107113585394|
 |1048|[Longest String Chain]( https://leetcode.com/problems/longest-string-chain)|54.7%|Medium|0.6021288528371614|

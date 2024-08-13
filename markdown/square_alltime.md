@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |72|[Edit Distance]( https://leetcode.com/problems/edit-distance)|44.8%|Hard|0.8278420197119241|
 |271|[Encode and Decode Strings]( https://leetcode.com/problems/encode-and-decode-strings)|31.5%|Medium|0.6492888646599129|

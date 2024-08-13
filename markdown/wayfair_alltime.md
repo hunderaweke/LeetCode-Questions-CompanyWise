@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1212|[Team Scores in Football Tournament]( https://leetcode.com/problems/team-scores-in-football-tournament)|55.8%|Medium|1.1574169741354225|
 |840|[Magic Squares In Grid]( https://leetcode.com/problems/magic-squares-in-grid)|37.3%|Easy|0.7861804130990654|

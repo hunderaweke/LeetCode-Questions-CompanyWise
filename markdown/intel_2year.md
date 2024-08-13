@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.007050281837628458|
 |204|[Count Primes]( https://leetcode.com/problems/count-primes)|31.5%|Easy|0.006761350978043845|

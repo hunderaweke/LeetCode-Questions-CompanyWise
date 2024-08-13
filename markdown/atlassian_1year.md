@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |366|[Find Leaves of Binary Tree]( https://leetcode.com/problems/find-leaves-of-binary-tree)|70.6%|Medium|0.22834203521080285|
 |860|[Lemonade Change]( https://leetcode.com/problems/lemonade-change)|51.6%|Easy|0.18866903222469833|

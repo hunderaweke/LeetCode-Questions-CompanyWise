@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |274|[H-Index]( https://leetcode.com/problems/h-index)|36.1%|Medium|0.18810197835269699|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.14642426807449366|

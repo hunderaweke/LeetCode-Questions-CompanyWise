@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |76|[Minimum Window Substring]( https://leetcode.com/problems/minimum-window-substring)|34.6%|Hard|0.03691000072068462|
 |845|[Longest Mountain in Array]( https://leetcode.com/problems/longest-mountain-in-array)|37.2%|Medium|0.029335507073925533|

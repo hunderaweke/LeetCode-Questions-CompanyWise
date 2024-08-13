@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1349|[Maximum Students Taking Exam]( https://leetcode.com/problems/maximum-students-taking-exam)|42.0%|Hard|0.12179424958237695|
 |738|[Monotone Increasing Digits]( https://leetcode.com/problems/monotone-increasing-digits)|44.3%|Medium|0.08479653666007693|

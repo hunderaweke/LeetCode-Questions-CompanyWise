@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |441|[Arranging Coins]( https://leetcode.com/problems/arranging-coins)|41.9%|Easy|0.08973851726005694|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.07118067822062889|

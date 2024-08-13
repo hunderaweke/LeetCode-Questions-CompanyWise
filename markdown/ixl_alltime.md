@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |592|[Fraction Addition and Subtraction]( https://leetcode.com/problems/fraction-addition-and-subtraction)|49.0%|Medium|2.1852914017256673|
 |691|[Stickers to Spell Word]( https://leetcode.com/problems/stickers-to-spell-word)|42.9%|Hard|1.614456743546043|

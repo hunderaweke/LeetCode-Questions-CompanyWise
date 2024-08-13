@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |453|[Minimum Moves to Equal Array Elements]( https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|50.2%|Easy|0.01800236989176031|
 |547|[Friend Circles]( https://leetcode.com/problems/friend-circles)|58.6%|Medium|0.012228828639434596|

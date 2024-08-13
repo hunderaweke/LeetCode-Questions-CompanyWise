@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |256|[Paint House]( https://leetcode.com/problems/paint-house)|52.1%|Easy|0.03172360722570897|
 |143|[Reorder List]( https://leetcode.com/problems/reorder-list)|37.1%|Medium|0.025870945598649286|

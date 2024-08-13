@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |92|[Reverse Linked List II]( https://leetcode.com/problems/reverse-linked-list-ii)|38.8%|Medium|0.009429869252783295|
 |73|[Set Matrix Zeroes]( https://leetcode.com/problems/set-matrix-zeroes)|43.1%|Medium|0.0070151111959223245|

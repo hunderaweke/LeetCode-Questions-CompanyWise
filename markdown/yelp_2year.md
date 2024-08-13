@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |599|[Minimum Index Sum of Two Lists]( https://leetcode.com/problems/minimum-index-sum-of-two-lists)|50.7%|Easy|0.4762677241497535|
 |355|[Design Twitter]( https://leetcode.com/problems/design-twitter)|30.3%|Medium|0.4013575056633937|

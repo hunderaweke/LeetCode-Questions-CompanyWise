@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |237|[Delete Node in a Linked List]( https://leetcode.com/problems/delete-node-in-a-linked-list)|63.8%|Easy|0.010459229961269176|
 |160|[Intersection of Two Linked Lists]( https://leetcode.com/problems/intersection-of-two-linked-lists)|40.6%|Easy|0.00998969599575425|

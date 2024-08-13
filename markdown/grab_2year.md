@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |915|[Partition Array into Disjoint Intervals]( https://leetcode.com/problems/partition-array-into-disjoint-intervals)|45.4%|Medium|0.31069289452415816|
 |984|[String Without AAA or BBB]( https://leetcode.com/problems/string-without-aaa-or-bbb)|37.7%|Medium|0.2735260204188947|

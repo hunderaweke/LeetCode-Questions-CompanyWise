@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |937|[Reorder Data in Log Files]( https://leetcode.com/problems/reorder-data-in-log-files)|54.3%|Easy|3.9944355947998136|
 |1192|[Critical Connections in a Network]( https://leetcode.com/problems/critical-connections-in-a-network)|48.6%|Hard|3.925598813161921|

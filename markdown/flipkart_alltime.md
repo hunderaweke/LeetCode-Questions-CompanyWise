@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |741|[Cherry Pickup]( https://leetcode.com/problems/cherry-pickup)|33.9%|Hard|0.14706899424089495|
 |42|[Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water)|48.9%|Hard|0.10346205022559302|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |92|[Reverse Linked List II]( https://leetcode.com/problems/reverse-linked-list-ii)|38.8%|Medium|0.06299677669844994|
 |49|[Group Anagrams]( https://leetcode.com/problems/group-anagrams)|56.9%|Medium|0.058734162515069785|

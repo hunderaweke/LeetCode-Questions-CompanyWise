@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1239|[Maximum Length of a Concatenated String with Unique Characters]( https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)|47.8%|Medium|0.6657761816190897|
 |1246|[Palindrome Removal]( https://leetcode.com/problems/palindrome-removal)|46.0%|Hard|0.5941286921253983|

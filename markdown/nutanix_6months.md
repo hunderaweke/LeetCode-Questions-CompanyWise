@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |991|[Broken Calculator]( https://leetcode.com/problems/broken-calculator)|45.6%|Medium|0.3917108530690627|
 |1052|[Grumpy Bookstore Owner]( https://leetcode.com/problems/grumpy-bookstore-owner)|55.4%|Medium|0.20881791529768876|

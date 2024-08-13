@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |160|[Intersection of Two Linked Lists]( https://leetcode.com/problems/intersection-of-two-linked-lists)|40.6%|Easy|0.009840575641962807|
 |191|[Number of 1 Bits]( https://leetcode.com/problems/number-of-1-bits)|49.8%|Easy|0.007169774395423815|

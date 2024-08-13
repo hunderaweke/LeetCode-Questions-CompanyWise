@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1396|[Design Underground System]( https://leetcode.com/problems/design-underground-system)|64.7%|Medium|2.1135252465771397|
 |430|[Flatten a Multilevel Doubly Linked List]( https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)|55.1%|Medium|2.069920145220796|

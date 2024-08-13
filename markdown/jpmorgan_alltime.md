@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |202|[Happy Number]( https://leetcode.com/problems/happy-number)|50.4%|Easy|3.472501931831341|
 |20|[Valid Parentheses]( https://leetcode.com/problems/valid-parentheses)|39.0%|Easy|2.091183527592892|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |121|[Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|50.5%|Easy|0.03031079164323808|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.020315992091756507|

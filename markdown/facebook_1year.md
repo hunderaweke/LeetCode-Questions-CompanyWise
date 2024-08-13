@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |953|[Verifying an Alien Dictionary]( https://leetcode.com/problems/verifying-an-alien-dictionary)|54.1%|Easy|3.672929743430384|
 |1249|[Minimum Remove to Make Valid Parentheses]( https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)|62.5%|Medium|3.495670386899169|

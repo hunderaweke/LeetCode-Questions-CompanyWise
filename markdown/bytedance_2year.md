@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |407|[Trapping Rain Water II]( https://leetcode.com/problems/trapping-rain-water-ii)|42.4%|Hard|0.4558904036597034|
 |403|[Frog Jump]( https://leetcode.com/problems/frog-jump)|39.7%|Hard|0.4111319463019136|

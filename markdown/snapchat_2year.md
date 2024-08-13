@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |527|[Word Abbreviation]( https://leetcode.com/problems/word-abbreviation)|54.3%|Hard|0.4819143893795129|
 |296|[Best Meeting Point]( https://leetcode.com/problems/best-meeting-point)|57.5%|Hard|0.388507095744267|

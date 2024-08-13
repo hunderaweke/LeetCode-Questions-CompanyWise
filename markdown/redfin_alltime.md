@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |628|[Maximum Product of Three Numbers]( https://leetcode.com/problems/maximum-product-of-three-numbers)|47.1%|Easy|0.027043142287534887|
 |2|[Add Two Numbers]( https://leetcode.com/problems/add-two-numbers)|33.9%|Medium|0.020491663368639005|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |29|[Divide Two Integers]( https://leetcode.com/problems/divide-two-integers)|16.4%|Medium|0.14250148324930875|
 |495|[Teemo Attacking]( https://leetcode.com/problems/teemo-attacking)|53.6%|Medium|0.08934510033584994|

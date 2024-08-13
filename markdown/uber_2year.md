@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |427|[Construct Quad Tree]( https://leetcode.com/problems/construct-quad-tree)|61.4%|Medium|1.812347218370924|
 |529|[Minesweeper]( https://leetcode.com/problems/minesweeper)|59.1%|Medium|1.6823491789169709|

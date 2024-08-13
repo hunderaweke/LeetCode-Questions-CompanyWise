@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1138|[Alphabet Board Path]( https://leetcode.com/problems/alphabet-board-path)|48.4%|Medium|0.0732817792334067|
 |56|[Merge Intervals]( https://leetcode.com/problems/merge-intervals)|39.3%|Medium|0.0448978633045407|

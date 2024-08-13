@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1168|[Optimize Water Distribution in a Village]( https://leetcode.com/problems/optimize-water-distribution-in-a-village)|60.9%|Hard|0.15241098168923292|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.09086581558650506|

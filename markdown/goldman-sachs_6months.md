@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1086|[High Five]( https://leetcode.com/problems/high-five)|79.7%|Easy|1.3586699801761455|
 |780|[Reaching Points]( https://leetcode.com/problems/reaching-points)|29.4%|Hard|1.054860335368066|

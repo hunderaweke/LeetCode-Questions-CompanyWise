@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |829|[Consecutive Numbers Sum]( https://leetcode.com/problems/consecutive-numbers-sum)|37.5%|Hard|0.28481507092935865|
 |285|[Inorder Successor in BST]( https://leetcode.com/problems/inorder-successor-in-bst)|40.4%|Medium|0.1850469943157836|

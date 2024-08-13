@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |166|[Fraction to Recurring Decimal]( https://leetcode.com/problems/fraction-to-recurring-decimal)|21.6%|Medium|0.3214580219607569|
 |945|[Minimum Increment to Make Array Unique]( https://leetcode.com/problems/minimum-increment-to-make-array-unique)|46.3%|Medium|0.24996776739863846|

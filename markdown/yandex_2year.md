@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |281|[Zigzag Iterator]( https://leetcode.com/problems/zigzag-iterator)|58.4%|Medium|0.15115252496881726|
 |283|[Move Zeroes]( https://leetcode.com/problems/move-zeroes)|57.8%|Easy|0.12694900267046355|

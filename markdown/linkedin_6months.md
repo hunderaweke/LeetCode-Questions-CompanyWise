@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |364|[Nested List Weight Sum II]( https://leetcode.com/problems/nested-list-weight-sum-ii)|62.8%|Medium|0.3957679254185175|
 |272|[Closest Binary Search Tree Value II]( https://leetcode.com/problems/closest-binary-search-tree-value-ii)|50.5%|Hard|0.3195226783074397|

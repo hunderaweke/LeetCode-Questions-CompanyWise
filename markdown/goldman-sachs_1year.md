@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |289|[Game of Life]( https://leetcode.com/problems/game-of-life)|54.5%|Medium|1.9095955742703714|
 |1086|[High Five]( https://leetcode.com/problems/high-five)|79.7%|Easy|1.8728225432316814|

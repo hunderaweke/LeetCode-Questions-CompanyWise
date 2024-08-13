@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |271|[Encode and Decode Strings]( https://leetcode.com/problems/encode-and-decode-strings)|31.5%|Medium|0.456074830875999|
 |336|[Palindrome Pairs]( https://leetcode.com/problems/palindrome-pairs)|33.7%|Hard|0.3591927799310734|

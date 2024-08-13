@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |529|[Minesweeper]( https://leetcode.com/problems/minesweeper)|59.1%|Medium|0.09420878206672367|
 |575|[Distribute Candies]( https://leetcode.com/problems/distribute-candies)|61.4%|Easy|0.08329002108922262|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |301|[Remove Invalid Parentheses]( https://leetcode.com/problems/remove-invalid-parentheses)|43.3%|Hard|0.13310393847431484|
 |1190|[Reverse Substrings Between Each Pair of Parentheses]( https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|61.5%|Medium|0.09928670042921932|

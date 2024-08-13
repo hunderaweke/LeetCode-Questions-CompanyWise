@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |301|[Remove Invalid Parentheses]( https://leetcode.com/problems/remove-invalid-parentheses)|43.3%|Hard|5.575610066775206|
 |273|[Integer to English Words]( https://leetcode.com/problems/integer-to-english-words)|27.1%|Hard|5.444753025333917|

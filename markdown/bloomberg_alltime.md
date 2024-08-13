@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |138|[Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer)|36.4%|Medium|2.9916072330367776|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|2.88011930741835|

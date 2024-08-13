@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1349|[Maximum Students Taking Exam]( https://leetcode.com/problems/maximum-students-taking-exam)|42.0%|Hard|0.290115411660895|
 |1341|[Movie Rating]( https://leetcode.com/problems/movie-rating)|56.6%|Medium|0.20386340056870947|

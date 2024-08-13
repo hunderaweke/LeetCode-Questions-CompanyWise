@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |289|[Game of Life]( https://leetcode.com/problems/game-of-life)|54.5%|Medium|0.20761483400383401|
 |314|[Binary Tree Vertical Order Traversal]( https://leetcode.com/problems/binary-tree-vertical-order-traversal)|45.3%|Medium|0.15148600467306356|

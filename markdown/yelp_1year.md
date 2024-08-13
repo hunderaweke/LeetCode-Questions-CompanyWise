@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |355|[Design Twitter]( https://leetcode.com/problems/design-twitter)|30.3%|Medium|0.32011425342610905|
 |1126|[Active Businesses]( https://leetcode.com/problems/active-businesses)|68.5%|Medium|0.19290366612449156|

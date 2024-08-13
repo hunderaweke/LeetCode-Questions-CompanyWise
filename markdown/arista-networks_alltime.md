@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |268|[Missing Number]( https://leetcode.com/problems/missing-number)|51.7%|Easy|0.2527134652732994|
 |165|[Compare Version Numbers]( https://leetcode.com/problems/compare-version-numbers)|27.4%|Medium|0.2071910405067907|

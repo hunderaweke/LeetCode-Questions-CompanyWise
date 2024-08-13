@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |256|[Paint House]( https://leetcode.com/problems/paint-house)|52.1%|Easy|0.8299890646199083|
 |780|[Reaching Points]( https://leetcode.com/problems/reaching-points)|29.4%|Hard|0.6779561713749561|

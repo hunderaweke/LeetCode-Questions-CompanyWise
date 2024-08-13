@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |57|[Insert Interval]( https://leetcode.com/problems/insert-interval)|33.5%|Hard|0.05771586881832742|
 |56|[Merge Intervals]( https://leetcode.com/problems/merge-intervals)|39.3%|Medium|0.030829638084076787|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |939|[Minimum Area Rectangle]( https://leetcode.com/problems/minimum-area-rectangle)|51.8%|Medium|0.03323242792566654|
 |231|[Power of Two]( https://leetcode.com/problems/power-of-two)|43.7%|Easy|0.021776810232970734|

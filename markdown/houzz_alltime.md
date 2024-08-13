@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |227|[Basic Calculator II]( https://leetcode.com/problems/basic-calculator-ii)|36.9%|Medium|0.21141874864915486|
 |727|[Minimum Window Subsequence]( https://leetcode.com/problems/minimum-window-subsequence)|41.8%|Hard|0.15970111035790735|

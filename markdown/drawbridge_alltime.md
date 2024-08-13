@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |757|[Set Intersection Size At Least Two]( https://leetcode.com/problems/set-intersection-size-at-least-two)|40.1%|Hard|0.493754644718809|
 |453|[Minimum Moves to Equal Array Elements]( https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|50.2%|Easy|0.2605310833858301|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |42|[Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water)|48.9%|Hard|0.004350670338744988|
 |977|[Squares of a Sorted Array]( https://leetcode.com/problems/squares-of-a-sorted-array)|72.1%|Easy|0.003891055492966611|

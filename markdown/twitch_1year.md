@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |695|[Max Area of Island]( https://leetcode.com/problems/max-area-of-island)|62.7%|Medium|0.08485914746998405|
 |723|[Candy Crush]( https://leetcode.com/problems/candy-crush)|69.2%|Medium|0.044375101481475325|

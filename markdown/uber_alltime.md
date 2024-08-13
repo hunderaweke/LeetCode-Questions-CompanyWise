@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |427|[Construct Quad Tree]( https://leetcode.com/problems/construct-quad-tree)|61.4%|Medium|3.2025777670666282|
 |291|[Word Pattern II]( https://leetcode.com/problems/word-pattern-ii)|43.4%|Hard|3.0090998629797148|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |46|[Permutations]( https://leetcode.com/problems/permutations)|63.5%|Medium|0.003663569603920762|
 |33|[Search in Rotated Sorted Array]( https://leetcode.com/problems/search-in-rotated-sorted-array)|34.5%|Medium|0.0027795573227129993|

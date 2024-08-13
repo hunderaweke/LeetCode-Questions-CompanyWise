@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |545|[Boundary of Binary Tree]( https://leetcode.com/problems/boundary-of-binary-tree)|38.9%|Medium|0.23484882359918047|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.19793208872567258|

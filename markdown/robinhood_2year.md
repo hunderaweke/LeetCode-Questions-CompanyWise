@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |224|[Basic Calculator]( https://leetcode.com/problems/basic-calculator)|36.8%|Hard|0.18641979112204357|
 |418|[Sentence Screen Fitting]( https://leetcode.com/problems/sentence-screen-fitting)|32.6%|Medium|0.15089223475521438|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |42|[Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water)|48.9%|Hard|2.020411699325411|
 |289|[Game of Life]( https://leetcode.com/problems/game-of-life)|54.5%|Medium|1.8133708003279605|

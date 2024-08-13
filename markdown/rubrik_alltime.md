@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |166|[Fraction to Recurring Decimal]( https://leetcode.com/problems/fraction-to-recurring-decimal)|21.6%|Medium|0.3244670481307201|
 |51|[N-Queens]( https://leetcode.com/problems/n-queens)|46.6%|Hard|0.18438554101480611|

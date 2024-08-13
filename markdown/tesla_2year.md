@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1189|[Maximum Number of Balloons]( https://leetcode.com/problems/maximum-number-of-balloons)|61.2%|Easy|0.07441757097416746|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.054946555458745445|

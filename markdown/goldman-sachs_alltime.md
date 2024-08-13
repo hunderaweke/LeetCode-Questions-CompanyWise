@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |42|[Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water)|48.9%|Hard|3.4017115728252114|
 |1086|[High Five]( https://leetcode.com/problems/high-five)|79.7%|Easy|3.081613006775713|

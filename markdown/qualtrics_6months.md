@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |729|[My Calendar I]( https://leetcode.com/problems/my-calendar-i)|51.8%|Medium|0.01003093468087332|
 |138|[Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer)|36.4%|Medium|0.006191011880825271|

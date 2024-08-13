@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |742|[Closest Leaf in a Binary Tree]( https://leetcode.com/problems/closest-leaf-in-a-binary-tree)|43.6%|Medium|1.1768018409410708|
 |380|[Insert Delete GetRandom O(1)]( https://leetcode.com/problems/insert-delete-getrandom-o1)|47.5%|Medium|0.9812917663172286|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |545|[Boundary of Binary Tree]( https://leetcode.com/problems/boundary-of-binary-tree)|38.9%|Medium|0.03736177747025919|
 |472|[Concatenated Words]( https://leetcode.com/problems/concatenated-words)|43.7%|Hard|0.024011429628186427|

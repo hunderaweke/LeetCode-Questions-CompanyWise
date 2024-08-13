@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1283|[Find the Smallest Divisor Given a Threshold]( https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)|47.6%|Medium|0.0665963051641667|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.054946555458745445|

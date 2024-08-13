@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |525|[Contiguous Array]( https://leetcode.com/problems/contiguous-array)|42.8%|Medium|0.42990617361238165|
 |498|[Diagonal Traverse]( https://leetcode.com/problems/diagonal-traverse)|48.2%|Medium|0.32668133250056075|

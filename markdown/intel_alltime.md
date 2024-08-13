@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.19062641457662657|
 |206|[Reverse Linked List]( https://leetcode.com/problems/reverse-linked-list)|62.5%|Easy|0.12455596351019865|

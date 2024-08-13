@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1290|[Convert Binary Number in a Linked List to Integer]( https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|80.4%|Easy|0.1661053170661279|
 |3|[Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters)|30.4%|Medium|0.14469274653374686|

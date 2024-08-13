@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1473|[Paint House III]( https://leetcode.com/problems/paint-house-iii)|48.1%|Hard|0.3658010975821623|
 |1497|[Check If Array Pairs Are Divisible by k]( https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k)|41.1%|Medium|0.2357666456855048|

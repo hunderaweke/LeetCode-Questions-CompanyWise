@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |221|[Maximal Square]( https://leetcode.com/problems/maximal-square)|37.7%|Medium|0.07763487926837137|
 |394|[Decode String]( https://leetcode.com/problems/decode-string)|50.0%|Medium|0.0476916619317836|

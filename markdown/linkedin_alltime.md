@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |244|[Shortest Word Distance II]( https://leetcode.com/problems/shortest-word-distance-ii)|52.3%|Medium|6.080030276326555|
 |364|[Nested List Weight Sum II]( https://leetcode.com/problems/nested-list-weight-sum-ii)|62.8%|Medium|5.858903208882962|

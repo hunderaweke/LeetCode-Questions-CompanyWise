@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1188|[Design Bounded Blocking Queue]( https://leetcode.com/problems/design-bounded-blocking-queue)|70.5%|Medium|0.07629083665191388|
 |622|[Design Circular Queue]( https://leetcode.com/problems/design-circular-queue)|43.7%|Medium|0.05295034890955832|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |149|[Max Points on a Line]( https://leetcode.com/problems/max-points-on-a-line)|16.9%|Hard|0.08243941611799847|
 |274|[H-Index]( https://leetcode.com/problems/h-index)|36.1%|Medium|0.0632254597089662|

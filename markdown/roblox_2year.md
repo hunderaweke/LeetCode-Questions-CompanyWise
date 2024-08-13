@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |811|[Subdomain Visit Count]( https://leetcode.com/problems/subdomain-visit-count)|69.9%|Easy|1.219366809852767|
 |829|[Consecutive Numbers Sum]( https://leetcode.com/problems/consecutive-numbers-sum)|37.5%|Hard|0.9369106040185756|

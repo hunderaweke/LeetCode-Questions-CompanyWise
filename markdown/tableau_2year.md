@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |238|[Product of Array Except Self]( https://leetcode.com/problems/product-of-array-except-self)|60.1%|Medium|0.050347746825039494|
 |706|[Design HashMap]( https://leetcode.com/problems/design-hashmap)|61.3%|Easy|0.039016652342451774|

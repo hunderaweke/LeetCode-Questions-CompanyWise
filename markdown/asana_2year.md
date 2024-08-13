@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |238|[Product of Array Except Self]( https://leetcode.com/problems/product-of-array-except-self)|60.1%|Medium|0.14079121889577595|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.09466027715846642|

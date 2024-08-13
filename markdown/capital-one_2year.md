@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |228|[Summary Ranges]( https://leetcode.com/problems/summary-ranges)|39.5%|Medium|1.7946310215245758|
 |814|[Binary Tree Pruning]( https://leetcode.com/problems/binary-tree-pruning)|74.5%|Medium|1.2701157688808176|

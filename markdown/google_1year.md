@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1007|[Minimum Domino Rotations For Equal Row]( https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|50.0%|Medium|2.170163308534744|
 |843|[Guess the Word]( https://leetcode.com/problems/guess-the-word)|46.1%|Hard|2.087209390653749|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1271|[Hexspeak]( https://leetcode.com/problems/hexspeak)|54.2%|Easy|0.3837188253364694|
 |1243|[Array Transformation]( https://leetcode.com/problems/array-transformation)|51.1%|Easy|0.2421400520048648|

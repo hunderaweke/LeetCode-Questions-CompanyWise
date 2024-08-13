@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |25|[Reverse Nodes in k-Group]( https://leetcode.com/problems/reverse-nodes-in-k-group)|42.1%|Hard|0.05055437541222425|
 |76|[Minimum Window Substring]( https://leetcode.com/problems/minimum-window-substring)|34.6%|Hard|0.04336436867416216|

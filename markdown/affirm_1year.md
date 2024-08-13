@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed]( https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)|34.1%|Hard|0.10584435094403895|
 |380|[Insert Delete GetRandom O(1)]( https://leetcode.com/problems/insert-delete-getrandom-o1)|47.5%|Medium|0.057001980519332376|

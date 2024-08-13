@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |128|[Longest Consecutive Sequence]( https://leetcode.com/problems/longest-consecutive-sequence)|45.1%|Hard|0.12090519978650899|
 |383|[Ransom Note]( https://leetcode.com/problems/ransom-note)|53.1%|Easy|0.1053605156578263|

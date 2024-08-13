@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |511|[Game Play Analysis I]( https://leetcode.com/problems/game-play-analysis-i)|80.8%|Easy|0|
 |512|[Game Play Analysis II]( https://leetcode.com/problems/game-play-analysis-ii)|55.5%|Easy|0|

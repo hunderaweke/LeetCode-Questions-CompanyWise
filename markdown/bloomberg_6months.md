@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1396|[Design Underground System]( https://leetcode.com/problems/design-underground-system)|64.7%|Medium|1.6336239764997664|
 |1274|[Number of Ships in a Rectangle]( https://leetcode.com/problems/number-of-ships-in-a-rectangle)|66.3%|Hard|1.3841012723467938|

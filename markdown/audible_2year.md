@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1228|[Missing Number In Arithmetic Progression]( https://leetcode.com/problems/missing-number-in-arithmetic-progression)|52.6%|Easy|0.14893621100754167|
 |545|[Boundary of Binary Tree]( https://leetcode.com/problems/boundary-of-binary-tree)|38.9%|Medium|0.0877756108823857|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |362|[Design Hit Counter]( https://leetcode.com/problems/design-hit-counter)|63.7%|Medium|0.013750228098871015|
 |295|[Find Median from Data Stream]( https://leetcode.com/problems/find-median-from-data-stream)|44.3%|Hard|0.00899893586856953|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |284|[Peeking Iterator]( https://leetcode.com/problems/peeking-iterator)|45.7%|Medium|0.9541838033314709|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.8672052300421611|

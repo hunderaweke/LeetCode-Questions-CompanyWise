@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |352|[Data Stream as Disjoint Intervals]( https://leetcode.com/problems/data-stream-as-disjoint-intervals)|47.3%|Hard|0.26671077361397416|
 |362|[Design Hit Counter]( https://leetcode.com/problems/design-hit-counter)|63.7%|Medium|0.20812125379246896|

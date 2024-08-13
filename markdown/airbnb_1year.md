@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |755|[Pour Water]( https://leetcode.com/problems/pour-water)|43.3%|Medium|1.6549959634129805|
 |1166|[Design File System]( https://leetcode.com/problems/design-file-system)|56.8%|Medium|1.578042968988746|

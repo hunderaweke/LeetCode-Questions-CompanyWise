@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |829|[Consecutive Numbers Sum]( https://leetcode.com/problems/consecutive-numbers-sum)|37.5%|Hard|1.1124320366213494|
 |770|[Basic Calculator IV]( https://leetcode.com/problems/basic-calculator-iv)|48.1%|Hard|0.8712511889931674|

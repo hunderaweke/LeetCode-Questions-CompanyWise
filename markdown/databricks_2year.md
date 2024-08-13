@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |742|[Closest Leaf in a Binary Tree]( https://leetcode.com/problems/closest-leaf-in-a-binary-tree)|43.6%|Medium|0.8883303521322305|
 |314|[Binary Tree Vertical Order Traversal]( https://leetcode.com/problems/binary-tree-vertical-order-traversal)|45.3%|Medium|0.7042169874893927|

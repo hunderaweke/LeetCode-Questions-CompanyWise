@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.009201102569537696|
 |297|[Serialize and Deserialize Binary Tree]( https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|47.5%|Hard|0.007077170374085099|

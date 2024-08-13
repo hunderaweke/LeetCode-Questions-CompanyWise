@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |418|[Sentence Screen Fitting]( https://leetcode.com/problems/sentence-screen-fitting)|32.6%|Medium|0.1567818211793266|
 |755|[Pour Water]( https://leetcode.com/problems/pour-water)|43.3%|Medium|0.14791511120021605|

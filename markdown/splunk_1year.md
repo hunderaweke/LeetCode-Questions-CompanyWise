@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |498|[Diagonal Traverse]( https://leetcode.com/problems/diagonal-traverse)|48.2%|Medium|0.046617066297050695|
 |130|[Surrounded Regions]( https://leetcode.com/problems/surrounded-regions)|28.1%|Medium|0.02556231203780306|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |669|[Trim a Binary Search Tree]( https://leetcode.com/problems/trim-a-binary-search-tree)|63.0%|Easy|0.015052444911090134|
 |384|[Shuffle an Array]( https://leetcode.com/problems/shuffle-an-array)|52.8%|Medium|0.011375721700252122|

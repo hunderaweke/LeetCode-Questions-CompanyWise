@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.16703842296841676|
 |281|[Zigzag Iterator]( https://leetcode.com/problems/zigzag-iterator)|58.4%|Medium|0.10821358464023274|

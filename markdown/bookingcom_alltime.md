@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |49|[Group Anagrams]( https://leetcode.com/problems/group-anagrams)|56.9%|Medium|0.04730812692103113|
 |253|[Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii)|45.7%|Medium|0.03193246767820989|

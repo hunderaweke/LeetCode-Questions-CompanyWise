@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |509|[Fibonacci Number]( https://leetcode.com/problems/fibonacci-number)|67.2%|Easy|0.03801871583399193|
 |115|[Distinct Subsequences]( https://leetcode.com/problems/distinct-subsequences)|38.3%|Hard|0.027798871362742988|

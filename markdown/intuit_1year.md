@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |68|[Text Justification]( https://leetcode.com/problems/text-justification)|27.7%|Hard|0.3109794136214826|
 |811|[Subdomain Visit Count]( https://leetcode.com/problems/subdomain-visit-count)|69.9%|Easy|0.22553001977328802|

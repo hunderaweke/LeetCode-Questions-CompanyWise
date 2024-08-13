@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |974|[Subarray Sums Divisible by K]( https://leetcode.com/problems/subarray-sums-divisible-by-k)|48.9%|Medium|0.13980177259160728|
 |935|[Knight Dialer]( https://leetcode.com/problems/knight-dialer)|45.2%|Medium|0.09737416402517636|

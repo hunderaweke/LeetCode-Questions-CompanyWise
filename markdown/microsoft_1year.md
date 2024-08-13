@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1239|[Maximum Length of a Concatenated String with Unique Characters]( https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)|47.8%|Medium|1.08746055306763|
 |273|[Integer to English Words]( https://leetcode.com/problems/integer-to-english-words)|27.1%|Hard|1.0184313643647775|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |173|[Binary Search Tree Iterator]( https://leetcode.com/problems/binary-search-tree-iterator)|56.6%|Medium|0.1374539674363949|
 |622|[Design Circular Queue]( https://leetcode.com/problems/design-circular-queue)|43.7%|Medium|0.11095151700168701|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |286|[Walls and Gates]( https://leetcode.com/problems/walls-and-gates)|54.5%|Medium|0.04493831094219302|
 |383|[Ransom Note]( https://leetcode.com/problems/ransom-note)|53.1%|Easy|0.0326012144306243|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |6|[ZigZag Conversion]( https://leetcode.com/problems/zigzag-conversion)|36.3%|Medium|0.8494120771045042|
 |1473|[Paint House III]( https://leetcode.com/problems/paint-house-iii)|48.1%|Hard|0.6775218626568644|

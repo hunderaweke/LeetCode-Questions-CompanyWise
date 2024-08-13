@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |37|[Sudoku Solver]( https://leetcode.com/problems/sudoku-solver)|43.6%|Hard|0.0346243462817872|
 |165|[Compare Version Numbers]( https://leetcode.com/problems/compare-version-numbers)|27.4%|Medium|0.029283880120642022|

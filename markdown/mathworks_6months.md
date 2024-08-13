@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1130|[Minimum Cost Tree From Leaf Values]( https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|66.1%|Medium|0.20224156200426477|
 |1163|[Last Substring in Lexicographical Order]( https://leetcode.com/problems/last-substring-in-lexicographical-order)|33.9%|Hard|0.13476502218995134|

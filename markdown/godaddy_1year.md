@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |253|[Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii)|45.7%|Medium|0.007589863996336667|
 |76|[Minimum Window Substring]( https://leetcode.com/problems/minimum-window-substring)|34.6%|Hard|0.005742164524513417|

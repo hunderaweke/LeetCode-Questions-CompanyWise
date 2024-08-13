@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |937|[Reorder Data in Log Files]( https://leetcode.com/problems/reorder-data-in-log-files)|54.3%|Easy|3.9547702430822818|
 |200|[Number of Islands]( https://leetcode.com/problems/number-of-islands)|46.8%|Medium|3.6590323855166846|

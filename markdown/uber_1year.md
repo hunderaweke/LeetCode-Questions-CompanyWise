@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |529|[Minesweeper]( https://leetcode.com/problems/minesweeper)|59.1%|Medium|1.3576226678233785|
 |757|[Set Intersection Size At Least Two]( https://leetcode.com/problems/set-intersection-size-at-least-two)|40.1%|Hard|1.2679923456441213|

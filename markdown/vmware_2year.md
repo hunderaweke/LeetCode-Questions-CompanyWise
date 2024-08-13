@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.1499900812285872|
 |37|[Sudoku Solver]( https://leetcode.com/problems/sudoku-solver)|43.6%|Hard|0.13242170014920152|

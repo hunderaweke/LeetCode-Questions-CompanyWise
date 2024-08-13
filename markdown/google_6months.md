@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |843|[Guess the Word]( https://leetcode.com/problems/guess-the-word)|46.1%|Hard|1.2138391004755573|
 |809|[Expressive Words]( https://leetcode.com/problems/expressive-words)|47.0%|Medium|1.134863557707283|

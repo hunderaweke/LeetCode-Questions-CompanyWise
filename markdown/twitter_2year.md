@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |635|[Design Log Storage System]( https://leetcode.com/problems/design-log-storage-system)|58.6%|Medium|2.2981349041046517|
 |256|[Paint House]( https://leetcode.com/problems/paint-house)|52.1%|Easy|1.5313678227960323|

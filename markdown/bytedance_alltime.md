@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |440|[K-th Smallest in Lexicographical Order]( https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|29.1%|Hard|0.6255531303521535|
 |465|[Optimal Account Balancing]( https://leetcode.com/problems/optimal-account-balancing)|46.9%|Hard|0.5742250229838192|

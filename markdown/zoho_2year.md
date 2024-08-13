@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |2|[Add Two Numbers]( https://leetcode.com/problems/add-two-numbers)|33.9%|Medium|0.004573814287643114|
 |3|[Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters)|30.4%|Medium|0.0040444464550240785|

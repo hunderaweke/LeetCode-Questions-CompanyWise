@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.01757418391706516|
 |33|[Search in Rotated Sorted Array]( https://leetcode.com/problems/search-in-rotated-sorted-array)|34.5%|Medium|0.012342978578758374|

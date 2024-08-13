@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |281|[Zigzag Iterator]( https://leetcode.com/problems/zigzag-iterator)|58.4%|Medium|0.14442795545557569|
 |487|[Max Consecutive Ones II]( https://leetcode.com/problems/max-consecutive-ones-ii)|48.5%|Medium|0.10973238837921641|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |761|[Special Binary String]( https://leetcode.com/problems/special-binary-string)|54.7%|Hard|0.09348775380846833|
 |362|[Design Hit Counter]( https://leetcode.com/problems/design-hit-counter)|63.7%|Medium|0.05622967649867821|

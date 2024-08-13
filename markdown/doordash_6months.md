@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1359|[Count All Valid Pickup and Delivery Options]( https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options)|57.9%|Hard|0.261487798668764|
 |695|[Max Area of Island]( https://leetcode.com/problems/max-area-of-island)|62.7%|Medium|0.22890365856149725|

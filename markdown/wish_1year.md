@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |388|[Longest Absolute File Path]( https://leetcode.com/problems/longest-absolute-file-path)|41.8%|Medium|0.09792469558666919|
 |900|[RLE Iterator]( https://leetcode.com/problems/rle-iterator)|53.5%|Medium|0.08010604232504882|

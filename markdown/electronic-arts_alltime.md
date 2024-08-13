@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |42|[Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water)|48.9%|Hard|0.014929065877821017|
 |49|[Group Anagrams]( https://leetcode.com/problems/group-anagrams)|56.9%|Medium|0.012769126803161552|

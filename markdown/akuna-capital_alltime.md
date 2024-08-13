@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |713|[Subarray Product Less Than K]( https://leetcode.com/problems/subarray-product-less-than-k)|39.1%|Medium|1.072475096007634|
 |1223|[Dice Roll Simulation]( https://leetcode.com/problems/dice-roll-simulation)|45.6%|Medium|0.8403614163905465|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |780|[Reaching Points]( https://leetcode.com/problems/reaching-points)|29.4%|Hard|0.08732332033465998|
 |57|[Insert Interval]( https://leetcode.com/problems/insert-interval)|33.5%|Hard|0.05429184493746532|

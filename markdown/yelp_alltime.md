@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |599|[Minimum Index Sum of Two Lists]( https://leetcode.com/problems/minimum-index-sum-of-two-lists)|50.7%|Easy|2.30819311902822|
 |564|[Find the Closest Palindrome]( https://leetcode.com/problems/find-the-closest-palindrome)|19.7%|Hard|1.686299975418363|

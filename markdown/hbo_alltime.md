@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |722|[Remove Comments]( https://leetcode.com/problems/remove-comments)|34.6%|Medium|0.05632078951191108|
 |198|[House Robber]( https://leetcode.com/problems/house-robber)|42.0%|Easy|0.033320991026093004|

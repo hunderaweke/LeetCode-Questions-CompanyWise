@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |366|[Find Leaves of Binary Tree]( https://leetcode.com/problems/find-leaves-of-binary-tree)|70.6%|Medium|0.5289140003341137|
 |981|[Time Based Key-Value Store]( https://leetcode.com/problems/time-based-key-value-store)|53.1%|Medium|0.40162982547051973|

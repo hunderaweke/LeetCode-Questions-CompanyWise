@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |92|[Reverse Linked List II]( https://leetcode.com/problems/reverse-linked-list-ii)|38.8%|Medium|0.021069640609489525|
 |71|[Simplify Path]( https://leetcode.com/problems/simplify-path)|32.6%|Medium|0.016260520871780308|

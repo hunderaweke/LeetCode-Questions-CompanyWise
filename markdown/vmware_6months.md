@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.06230548855614676|
 |981|[Time Based Key-Value Store]( https://leetcode.com/problems/time-based-key-value-store)|53.1%|Medium|0.049406315387071284|

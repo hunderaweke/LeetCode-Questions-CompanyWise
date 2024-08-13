@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |15|[3Sum]( https://leetcode.com/problems/3sum)|26.8%|Medium|0.001153769900788164|
 |2|[Add Two Numbers]( https://leetcode.com/problems/add-two-numbers)|33.9%|Medium|0.0006433776804954862|

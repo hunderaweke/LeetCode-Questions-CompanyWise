@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |616|[Add Bold Tag in String]( https://leetcode.com/problems/add-bold-tag-in-string)|43.1%|Medium|0.0275898212601313|
 |314|[Binary Tree Vertical Order Traversal]( https://leetcode.com/problems/binary-tree-vertical-order-traversal)|45.3%|Medium|0.018010392274465332|

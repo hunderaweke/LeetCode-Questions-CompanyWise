@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |706|[Design HashMap]( https://leetcode.com/problems/design-hashmap)|61.3%|Easy|0.1171974903999194|
 |653|[Two Sum IV - Input is a BST]( https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|55.5%|Easy|0.09078846984784666|

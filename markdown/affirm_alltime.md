@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |736|[Parse Lisp Expression]( https://leetcode.com/problems/parse-lisp-expression)|47.5%|Hard|1.0065947176467498|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed]( https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)|34.1%|Hard|0.6946505634539769|

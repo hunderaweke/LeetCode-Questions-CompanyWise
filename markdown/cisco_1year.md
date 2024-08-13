@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1290|[Convert Binary Number in a Linked List to Integer]( https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|80.4%|Easy|0.15748072194904283|
 |394|[Decode String]( https://leetcode.com/problems/decode-string)|50.0%|Medium|0.1232801760013658|

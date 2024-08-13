@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |20|[Valid Parentheses]( https://leetcode.com/problems/valid-parentheses)|39.0%|Easy|0.5285821270620421|
 |974|[Subarray Sums Divisible by K]( https://leetcode.com/problems/subarray-sums-divisible-by-k)|48.9%|Medium|0.45026093827333574|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |740|[Delete and Earn]( https://leetcode.com/problems/delete-and-earn)|48.6%|Medium|2.0469337965260492|
 |366|[Find Leaves of Binary Tree]( https://leetcode.com/problems/find-leaves-of-binary-tree)|70.6%|Medium|1.492934381312693|

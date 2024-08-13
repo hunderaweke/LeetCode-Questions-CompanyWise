@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |828|[Count Unique Characters of All Substrings of a Given String]( https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string)|45.2%|Hard|0.4064583363781751|
 |695|[Max Area of Island]( https://leetcode.com/problems/max-area-of-island)|62.7%|Medium|0.2770125235595406|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |871|[Minimum Number of Refueling Stops]( https://leetcode.com/problems/minimum-number-of-refueling-stops)|31.4%|Hard|0.021853241177366825|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.017369086240613615|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |326|[Power of Three]( https://leetcode.com/problems/power-of-three)|42.1%|Easy|0.057997919790854766|
 |907|[Sum of Subarray Minimums]( https://leetcode.com/problems/sum-of-subarray-minimums)|32.3%|Medium|0.03902934390573525|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |881|[Boats to Save People]( https://leetcode.com/problems/boats-to-save-people)|46.8%|Medium|0.14464600498431196|
 |168|[Excel Sheet Column Title]( https://leetcode.com/problems/excel-sheet-column-title)|31.1%|Easy|0.12859286438561013|

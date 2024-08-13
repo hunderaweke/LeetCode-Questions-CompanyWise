@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1242|[Web Crawler Multithreaded]( https://leetcode.com/problems/web-crawler-multithreaded)|45.9%|Medium|0.3795917253315977|
 |722|[Remove Comments]( https://leetcode.com/problems/remove-comments)|34.6%|Medium|0.2913421223844446|

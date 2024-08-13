@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |301|[Remove Invalid Parentheses]( https://leetcode.com/problems/remove-invalid-parentheses)|43.3%|Hard|4.335196687339778|
 |953|[Verifying an Alien Dictionary]( https://leetcode.com/problems/verifying-an-alien-dictionary)|54.1%|Easy|4.206922996096642|

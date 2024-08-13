@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1283|[Find the Smallest Divisor Given a Threshold]( https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)|47.6%|Medium|0.030152736302452396|
 |348|[Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe)|54.3%|Medium|0.024214258120594613|

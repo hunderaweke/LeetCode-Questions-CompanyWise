@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1095|[Find in Mountain Array]( https://leetcode.com/problems/find-in-mountain-array)|35.8%|Hard|0.5901861366220961|
 |284|[Peeking Iterator]( https://leetcode.com/problems/peeking-iterator)|45.7%|Medium|0.540892616315496|

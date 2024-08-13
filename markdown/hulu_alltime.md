@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |909|[Snakes and Ladders]( https://leetcode.com/problems/snakes-and-ladders)|38.4%|Medium|0.168705777104921|
 |326|[Power of Three]( https://leetcode.com/problems/power-of-three)|42.1%|Easy|0.11585923430189346|

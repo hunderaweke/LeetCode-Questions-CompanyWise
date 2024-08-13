@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |929|[Unique Email Addresses]( https://leetcode.com/problems/unique-email-addresses)|67.4%|Easy|4.044864181469562|
 |904|[Fruit Into Baskets]( https://leetcode.com/problems/fruit-into-baskets)|42.5%|Medium|3.944467952217217|

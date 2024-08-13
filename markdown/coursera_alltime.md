@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |920|[Number of Music Playlists]( https://leetcode.com/problems/number-of-music-playlists)|46.5%|Hard|2.1617959520941517|
 |453|[Minimum Moves to Equal Array Elements]( https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|50.2%|Easy|1.6379595379336402|

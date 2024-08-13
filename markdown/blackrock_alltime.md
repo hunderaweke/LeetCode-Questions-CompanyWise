@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |322|[Coin Change]( https://leetcode.com/problems/coin-change)|35.5%|Medium|0.04715183980861924|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.03267443218434049|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1396|[Design Underground System]( https://leetcode.com/problems/design-underground-system)|64.7%|Medium|2.155218657865939|
 |1169|[Invalid Transactions]( https://leetcode.com/problems/invalid-transactions)|31.2%|Medium|1.8705521944133323|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |433|[Minimum Genetic Mutation]( https://leetcode.com/problems/minimum-genetic-mutation)|41.8%|Medium|3.6380005958321364|
 |635|[Design Log Storage System]( https://leetcode.com/problems/design-log-storage-system)|58.6%|Medium|2.6952344479401242|

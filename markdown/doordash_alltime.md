@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |759|[Employee Free Time]( https://leetcode.com/problems/employee-free-time)|66.3%|Hard|1.429184272146321|
 |1359|[Count All Valid Pickup and Delivery Options]( https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options)|57.9%|Hard|1.2093743507330705|

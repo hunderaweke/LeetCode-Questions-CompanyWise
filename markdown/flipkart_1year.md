@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |741|[Cherry Pickup]( https://leetcode.com/problems/cherry-pickup)|33.9%|Hard|0.024591335749285945|
 |84|[Largest Rectangle in Histogram]( https://leetcode.com/problems/largest-rectangle-in-histogram)|35.2%|Hard|0.01866112622166295|

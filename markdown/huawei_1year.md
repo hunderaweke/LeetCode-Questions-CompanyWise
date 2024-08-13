@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |221|[Maximal Square]( https://leetcode.com/problems/maximal-square)|37.7%|Medium|0.02632882130640434|
 |617|[Merge Two Binary Trees]( https://leetcode.com/problems/merge-two-binary-trees)|74.1%|Easy|0.017748444595195822|

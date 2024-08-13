@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |554|[Brick Wall]( https://leetcode.com/problems/brick-wall)|50.0%|Medium|0.5628369978035019|
 |352|[Data Stream as Disjoint Intervals]( https://leetcode.com/problems/data-stream-as-disjoint-intervals)|47.3%|Hard|0.4990377527312547|

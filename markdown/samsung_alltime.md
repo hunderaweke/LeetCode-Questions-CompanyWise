@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |312|[Burst Balloons]( https://leetcode.com/problems/burst-balloons)|51.8%|Hard|0.1436030350715959|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.10724153306109706|

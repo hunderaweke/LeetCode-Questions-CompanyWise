@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |545|[Boundary of Binary Tree]( https://leetcode.com/problems/boundary-of-binary-tree)|38.9%|Medium|0.09349966258159505|
 |250|[Count Univalue Subtrees]( https://leetcode.com/problems/count-univalue-subtrees)|52.0%|Medium|0.07975881838845024|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |593|[Valid Square]( https://leetcode.com/problems/valid-square)|43.1%|Medium|0.8850660255420153|
 |647|[Palindromic Substrings]( https://leetcode.com/problems/palindromic-substrings)|60.6%|Medium|0.5969293308834104|

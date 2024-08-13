@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |238|[Product of Array Except Self]( https://leetcode.com/problems/product-of-array-except-self)|60.1%|Medium|0.03616773385638842|
 |218|[The Skyline Problem]( https://leetcode.com/problems/the-skyline-problem)|34.6%|Hard|0.025479085300984906|

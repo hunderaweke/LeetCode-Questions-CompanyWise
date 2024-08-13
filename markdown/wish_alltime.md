@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |845|[Longest Mountain in Array]( https://leetcode.com/problems/longest-mountain-in-array)|37.2%|Medium|0.24328831528748193|
 |900|[RLE Iterator]( https://leetcode.com/problems/rle-iterator)|53.5%|Medium|0.1884471502206373|

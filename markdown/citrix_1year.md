@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |761|[Special Binary String]( https://leetcode.com/problems/special-binary-string)|54.7%|Hard|0.29495095529317067|
 |741|[Cherry Pickup]( https://leetcode.com/problems/cherry-pickup)|33.9%|Hard|0.20909179785855941|

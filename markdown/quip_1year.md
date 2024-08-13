@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |708|[Insert into a Sorted Circular Linked List]( https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)|31.6%|Medium|0.49171585790488404|
 |855|[Exam Room]( https://leetcode.com/problems/exam-room)|43.1%|Medium|0.34442921752179523|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.03376763319427294|
 |317|[Shortest Distance from All Buildings]( https://leetcode.com/problems/shortest-distance-from-all-buildings)|41.4%|Hard|0.031062254983439577|

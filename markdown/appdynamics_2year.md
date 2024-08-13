@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |346|[Moving Average from Data Stream]( https://leetcode.com/problems/moving-average-from-data-stream)|70.9%|Easy|0.02398572412300405|
 |394|[Decode String]( https://leetcode.com/problems/decode-string)|50.0%|Medium|0.0169360560557796|

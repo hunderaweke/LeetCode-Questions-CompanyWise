@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |545|[Boundary of Binary Tree]( https://leetcode.com/problems/boundary-of-binary-tree)|38.9%|Medium|0.15000822156709664|
 |968|[Binary Tree Cameras]( https://leetcode.com/problems/binary-tree-cameras)|37.5%|Hard|0.12586422089000404|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |425|[Word Squares]( https://leetcode.com/problems/word-squares)|47.7%|Hard|1.3737846439355526|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|1.2233383443716415|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |653|[Two Sum IV - Input is a BST]( https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|55.5%|Easy|0.016880386863023497|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.013049691753224608|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |314|[Binary Tree Vertical Order Traversal]( https://leetcode.com/problems/binary-tree-vertical-order-traversal)|45.3%|Medium|0.6090179533486686|
 |1242|[Web Crawler Multithreaded]( https://leetcode.com/problems/web-crawler-multithreaded)|45.9%|Medium|0.4978384282391795|

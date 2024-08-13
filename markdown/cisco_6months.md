@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1290|[Convert Binary Number in a Linked List to Integer]( https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|80.4%|Easy|0.06956650156993308|
 |1235|[Maximum Profit in Job Scheduling]( https://leetcode.com/problems/maximum-profit-in-job-scheduling)|44.0%|Hard|0.06732797308883445|

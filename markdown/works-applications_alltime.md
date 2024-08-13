@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |179|[Largest Number]( https://leetcode.com/problems/largest-number)|28.8%|Medium|0.07393612143915611|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.03943855709894935|

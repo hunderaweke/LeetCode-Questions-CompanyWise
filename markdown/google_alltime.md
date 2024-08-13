@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |388|[Longest Absolute File Path]( https://leetcode.com/problems/longest-absolute-file-path)|41.8%|Medium|5.913085890375435|
 |683|[K Empty Slots]( https://leetcode.com/problems/k-empty-slots)|35.6%|Hard|5.780765145104477|

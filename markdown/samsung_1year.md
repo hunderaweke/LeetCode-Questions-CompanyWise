@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |312|[Burst Balloons]( https://leetcode.com/problems/burst-balloons)|51.8%|Hard|0.023366022786649468|
 |85|[Maximal Rectangle]( https://leetcode.com/problems/maximal-rectangle)|37.7%|Hard|0.012771565679487524|

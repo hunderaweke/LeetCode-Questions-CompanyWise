@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1143|[Longest Common Subsequence]( https://leetcode.com/problems/longest-common-subsequence)|58.4%|Medium|0.008271645303004716|
 |543|[Diameter of Binary Tree]( https://leetcode.com/problems/diameter-of-binary-tree)|48.4%|Easy|0.005305755914149804|

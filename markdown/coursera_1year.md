@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |68|[Text Justification]( https://leetcode.com/problems/text-justification)|27.7%|Hard|0.04141650283478289|
 |10|[Regular Expression Matching]( https://leetcode.com/problems/regular-expression-matching)|26.8%|Hard|0.02726357310890105|

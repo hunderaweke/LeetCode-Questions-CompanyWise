@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |204|[Count Primes]( https://leetcode.com/problems/count-primes)|31.5%|Easy|0.003999006076005168|
 |206|[Reverse Linked List]( https://leetcode.com/problems/reverse-linked-list)|62.5%|Easy|0.002231770161393673|

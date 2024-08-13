@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |221|[Maximal Square]( https://leetcode.com/problems/maximal-square)|37.7%|Medium|0.15207505771969548|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.1158551535649608|

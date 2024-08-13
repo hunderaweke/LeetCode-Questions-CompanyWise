@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |256|[Paint House]( https://leetcode.com/problems/paint-house)|52.1%|Easy|0.02647331260939941|
 |1143|[Longest Common Subsequence]( https://leetcode.com/problems/longest-common-subsequence)|58.4%|Medium|0.019772173115579716|

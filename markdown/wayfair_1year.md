@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |840|[Magic Squares In Grid]( https://leetcode.com/problems/magic-squares-in-grid)|37.3%|Easy|0.4449565940664958|
 |811|[Subdomain Visit Count]( https://leetcode.com/problems/subdomain-visit-count)|69.9%|Easy|0.28185115214098777|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |529|[Minesweeper]( https://leetcode.com/problems/minesweeper)|59.1%|Medium|0.018556866269112182|
 |785|[Is Graph Bipartite?]( https://leetcode.com/problems/is-graph-bipartite)|47.5%|Medium|0.010661081786113668|

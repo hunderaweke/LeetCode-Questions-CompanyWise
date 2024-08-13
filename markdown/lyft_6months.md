@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |735|[Asteroid Collision]( https://leetcode.com/problems/asteroid-collision)|41.0%|Medium|0.4807449678769452|
 |365|[Water and Jug Problem]( https://leetcode.com/problems/water-and-jug-problem)|30.6%|Medium|0.36154113358990525|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|1.8426731183805538|
 |4|[Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays)|29.6%|Hard|1.3202175987487612|

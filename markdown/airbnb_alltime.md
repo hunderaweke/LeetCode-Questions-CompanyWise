@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |336|[Palindrome Pairs]( https://leetcode.com/problems/palindrome-pairs)|33.7%|Hard|5.9749009408191585|
 |755|[Pour Water]( https://leetcode.com/problems/pour-water)|43.3%|Medium|5.821525282662105|

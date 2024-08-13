@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |134|[Gas Station]( https://leetcode.com/problems/gas-station)|38.5%|Medium|0.13201247498000931|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.12691690291183813|

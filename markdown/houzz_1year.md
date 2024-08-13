@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |227|[Basic Calculator II]( https://leetcode.com/problems/basic-calculator-ii)|36.9%|Medium|0.028031313778810817|
 |721|[Accounts Merge]( https://leetcode.com/problems/accounts-merge)|48.8%|Medium|0.01888630262874805|

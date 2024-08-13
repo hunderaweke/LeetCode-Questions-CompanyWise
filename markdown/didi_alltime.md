@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |364|[Nested List Weight Sum II]( https://leetcode.com/problems/nested-list-weight-sum-ii)|62.8%|Medium|0.1841995690149098|
 |815|[Bus Routes]( https://leetcode.com/problems/bus-routes)|42.5%|Hard|0.1329388000145885|

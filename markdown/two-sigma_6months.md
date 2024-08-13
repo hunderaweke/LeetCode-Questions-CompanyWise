@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1048|[Longest String Chain]( https://leetcode.com/problems/longest-string-chain)|54.7%|Medium|0.2556185513689736|
 |547|[Friend Circles]( https://leetcode.com/problems/friend-circles)|58.6%|Medium|0.14039031404424082|

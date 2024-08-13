@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |735|[Asteroid Collision]( https://leetcode.com/problems/asteroid-collision)|41.0%|Medium|2.8217088979664124|
 |716|[Max Stack]( https://leetcode.com/problems/max-stack)|42.6%|Easy|2.0561349637374544|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |98|[Validate Binary Search Tree]( https://leetcode.com/problems/validate-binary-search-tree)|27.8%|Medium|0.15946580717044478|
 |238|[Product of Array Except Self]( https://leetcode.com/problems/product-of-array-except-self)|60.1%|Medium|0.14381651020193786|

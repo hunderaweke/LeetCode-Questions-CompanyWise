@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1130|[Minimum Cost Tree From Leaf Values]( https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|66.1%|Medium|2.445077590079096|
 |255|[Verify Preorder Sequence in Binary Search Tree]( https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)|45.7%|Medium|1.9602473122017205|

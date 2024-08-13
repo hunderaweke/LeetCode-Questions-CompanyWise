@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |691|[Stickers to Spell Word]( https://leetcode.com/problems/stickers-to-spell-word)|42.9%|Hard|0.024858702401805627|
 |166|[Fraction to Recurring Decimal]( https://leetcode.com/problems/fraction-to-recurring-decimal)|21.6%|Medium|0.014594325356283945|

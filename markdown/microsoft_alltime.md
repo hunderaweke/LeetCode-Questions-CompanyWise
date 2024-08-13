@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |138|[Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer)|36.4%|Medium|3.6989651187651815|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|3.5958778464490746|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |317|[Shortest Distance from All Buildings]( https://leetcode.com/problems/shortest-distance-from-all-buildings)|41.4%|Hard|0.14037470417111314|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.10560037836986279|

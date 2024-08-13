@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1|[Two Sum]( https://leetcode.com/problems/two-sum)|45.6%|Easy|0.6244209657434179|
 |169|[Majority Element]( https://leetcode.com/problems/majority-element)|58.7%|Easy|0.5183921604769917|

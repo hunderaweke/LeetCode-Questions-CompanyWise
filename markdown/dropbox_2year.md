@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |609|[Find Duplicate File in System]( https://leetcode.com/problems/find-duplicate-file-in-system)|59.5%|Medium|4.308646054568235|
 |924|[Minimize Malware Spread]( https://leetcode.com/problems/minimize-malware-spread)|42.0%|Hard|3.7034072588050604|

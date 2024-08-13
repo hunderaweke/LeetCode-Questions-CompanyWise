@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1473|[Paint House III]( https://leetcode.com/problems/paint-house-iii)|48.1%|Hard|0.4201627490481727|
 |1041|[Robot Bounded In Circle]( https://leetcode.com/problems/robot-bounded-in-circle)|49.6%|Medium|0.26986631760028884|

@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |965|[Univalued Binary Tree]( https://leetcode.com/problems/univalued-binary-tree)|67.7%|Easy|0.17568822959180388|
 |250|[Count Univalue Subtrees]( https://leetcode.com/problems/count-univalue-subtrees)|52.0%|Medium|0.17554347025042502|

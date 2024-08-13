@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |981|[Time Based Key-Value Store]( https://leetcode.com/problems/time-based-key-value-store)|53.1%|Medium|0.0417652106742648|
 |362|[Design Hit Counter]( https://leetcode.com/problems/design-hit-counter)|63.7%|Medium|0.025382073271417165|

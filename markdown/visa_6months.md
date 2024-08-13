@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1353|[Maximum Number of Events That Can Be Attended]( https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)|30.5%|Medium|0.006473832517571056|
 |42|[Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water)|48.9%|Hard|0.004350670338744988|

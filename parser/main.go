@@ -26,7 +26,7 @@ func getFiles(dir string) ([]string, error) {
 
 func generateTable(data [][]string) []byte {
 	line := data[0]
-	columns := fmt.Sprintf("|%s|[%s](%s)|%s|%s|%s|\n|----|-----|----|---|---|\n", line[0], line[1], line[5], line[2], line[3], line[4])
+	columns := fmt.Sprintf("|%s|%s|%s|%s|%s|\n|----|-----|----|---|---|\n", line[0], line[1], line[2], line[3], line[4])
 	rows := []string{}
 	for _, line := range data[1:] {
 		row := fmt.Sprintf("|%s|[%s](%s)|%s|%s|%s|\n", line[0], line[1], line[5], line[2], line[3], line[4])
@@ -66,7 +66,6 @@ func main() {
 		log.Fatal(err)
 	}
 	for _, fileName := range fileNames {
-		fmt.Println(fileName)
 		data, err := readCSV("../csv/" + fileName)
 		if err != nil {
 			log.Fatal(err)

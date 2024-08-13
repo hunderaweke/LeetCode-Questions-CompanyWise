@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |228|[Summary Ranges]( https://leetcode.com/problems/summary-ranges)|39.5%|Medium|0.16290155097997208|
 |1071|[Greatest Common Divisor of Strings]( https://leetcode.com/problems/greatest-common-divisor-of-strings)|52.9%|Easy|0.12182344519338843|

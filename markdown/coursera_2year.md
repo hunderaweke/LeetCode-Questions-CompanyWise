@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |920|[Number of Music Playlists]( https://leetcode.com/problems/number-of-music-playlists)|46.5%|Hard|2.1792623733735903|
 |761|[Special Binary String]( https://leetcode.com/problems/special-binary-string)|54.7%|Hard|1.3621145205463905|

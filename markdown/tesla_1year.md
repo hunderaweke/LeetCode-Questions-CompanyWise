@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1189|[Maximum Number of Balloons]( https://leetcode.com/problems/maximum-number-of-balloons)|61.2%|Easy|0.05114630990484657|
 |1239|[Maximum Length of a Concatenated String with Unique Characters]( https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)|47.8%|Medium|0.0348163973224064|

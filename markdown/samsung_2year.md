@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |312|[Burst Balloons]( https://leetcode.com/problems/burst-balloons)|51.8%|Hard|0.05677042474639432|
 |32|[Longest Valid Parentheses]( https://leetcode.com/problems/longest-valid-parentheses)|28.4%|Hard|0.03477099521294092|

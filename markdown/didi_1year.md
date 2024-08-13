@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |364|[Nested List Weight Sum II]( https://leetcode.com/problems/nested-list-weight-sum-ii)|62.8%|Medium|0.12431632201386382|
 |1293|[Shortest Path in a Grid with Obstacles Elimination]( https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)|42.8%|Hard|0.08167803101426718|

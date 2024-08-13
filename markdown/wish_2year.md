@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |845|[Longest Mountain in Array]( https://leetcode.com/problems/longest-mountain-in-array)|37.2%|Medium|0.2744088602461735|
 |388|[Longest Absolute File Path]( https://leetcode.com/problems/longest-absolute-file-path)|41.8%|Medium|0.18128582392042256|

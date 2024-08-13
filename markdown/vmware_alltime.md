@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.40992460509770895|
 |697|[Degree of an Array]( https://leetcode.com/problems/degree-of-an-array)|53.8%|Easy|0.3745732054339119|

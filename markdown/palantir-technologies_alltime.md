@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |393|[UTF-8 Validation]( https://leetcode.com/problems/utf-8-validation)|37.5%|Medium|5.339542531545812|
 |539|[Minimum Time Difference]( https://leetcode.com/problems/minimum-time-difference)|51.5%|Medium|4.5282542854816565|

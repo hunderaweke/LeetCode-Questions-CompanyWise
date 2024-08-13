@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |1071|[Greatest Common Divisor of Strings]( https://leetcode.com/problems/greatest-common-divisor-of-strings)|52.9%|Easy|0.11954237676819192|
 |366|[Find Leaves of Binary Tree]( https://leetcode.com/problems/find-leaves-of-binary-tree)|70.6%|Medium|0.1180240366638968|

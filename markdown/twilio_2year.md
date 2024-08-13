@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |974|[Subarray Sums Divisible by K]( https://leetcode.com/problems/subarray-sums-divisible-by-k)|48.9%|Medium|0.5083214430545138|
 |146|[LRU Cache]( https://leetcode.com/problems/lru-cache)|33.2%|Medium|0.37918622364432397|

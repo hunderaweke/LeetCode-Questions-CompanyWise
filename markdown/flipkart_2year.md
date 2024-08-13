@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |741|[Cherry Pickup]( https://leetcode.com/problems/cherry-pickup)|33.9%|Hard|0.0381788217608869|
 |269|[Alien Dictionary]( https://leetcode.com/problems/alien-dictionary)|33.3%|Hard|0.02841997399127492|

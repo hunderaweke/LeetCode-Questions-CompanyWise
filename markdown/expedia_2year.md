@@ -1,4 +1,4 @@
-|ID|[Title](Leetcode Question Link)|Acceptance|Difficulty|Frequency|
+|ID|Title|Acceptance|Difficulty|Frequency|
 |----|-----|----|---|---|
 |974|[Subarray Sums Divisible by K]( https://leetcode.com/problems/subarray-sums-divisible-by-k)|48.9%|Medium|0.23897880752617776|
 |1283|[Find the Smallest Divisor Given a Threshold]( https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)|47.6%|Medium|0.17884755718277986|
