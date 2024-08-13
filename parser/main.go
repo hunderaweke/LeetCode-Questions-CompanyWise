@@ -9,15 +9,14 @@ import (
 	"strings"
 )
 
-func getFiles(dir string) ([]string, error) {
+func getFiles(dir string, ext string) ([]string, error) {
 	dirEntries, err := os.ReadDir(dir)
 	if err != nil {
 		return []string{}, err
 	}
 	fileNames := []string{}
 	for _, dirEntry := range dirEntries {
-		ext := filepath.Ext(dirEntry.Name())
-		if ext == ".csv" {
+		if filepath.Ext(dirEntry.Name()) == ext {
 			fileNames = append(fileNames, dirEntry.Name())
 		}
 	}
@@ -60,8 +59,37 @@ func readCSV(filePath string) ([][]string, error) {
 	return records, nil
 }
 
+func generateName(fileName string) string {
+	parts := strings.Split(fileName, "_")
+	for i, p := range parts {
+		parts[i] = strings.Title(p)
+	}
+	return strings.Join(parts, " ")
+}
+
+func generateREADME(dir string, fileNames []string) error {
+	rows := []string{}
+	cols := "|No|Company|\n|-----|----|\n"
+	for i, fileName := range fileNames {
+		name := generateName(fileName[:len(fileName)-3])
+		row := fmt.Sprintf("|%d|[%s](%s)|\n", i+1, name, dir+fileName)
+		rows = append(rows, row)
+	}
+	table := cols + strings.Join(rows, "")
+	file, err := os.Create("../README.md")
+	defer file.Close()
+	if err != nil {
+		return err
+	}
+	_, err = file.WriteString(table)
+	if err != nil {
+		return err
+	}
+	return nil
+}
+
 func main() {
-	fileNames, err := getFiles("../csv/")
+	fileNames, err := getFiles("../csv/", ".csv")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -71,5 +99,10 @@ func main() {
 			log.Fatal(err)
 		}
 		writeToMD(data, "../markdown/"+fileName[:len(fileName)-4])
+	}
+	markdownFileNames, err := getFiles("../markdown/", ".md")
+	err = generateREADME("./markdown/", markdownFileNames)
+	if err != nil {
+		log.Fatal(err)
 	}
 }
