@@ -1,3 +1,35 @@
+
+---
+
+# 🚀 LeetCode Questions CompanyWise: Ace Your Coding Interviews!
+
+Welcome to the ultimate resource for crushing your coding interviews! This repository is a curated collection of LeetCode questions, meticulously organized by company and time period, to give you a competitive edge in your job hunt.
+
+Whether you're preparing for a technical interview at a top tech giant like Amazon, Google, or Facebook, or targeting a niche role at a cutting-edge startup, we've got you covered. Each section is tailored to reflect the types of questions commonly asked by specific companies, helping you focus your practice on what really matters.
+
+### 📌 What’s Inside?
+
+- **Company-Specific LeetCode Questions:** Tackle questions that have been asked in real interviews, categorized by the companies you’re applying to.
+- **Time-Sorted Collections:** Focus your study by practicing the most recent and relevant questions for each company.
+- **Comprehensive Coverage:** From the FAANG giants to up-and-coming tech startups, this repository includes a wide array of companies to suit your job search.
+
+### 🌟 Why This Repo?
+
+- **Stay Ahead of the Curve:** Regularly updated with the latest questions asked in interviews, keeping you prepared with up-to-date material.
+- **Laser-Focused Practice:** Save time by honing in on the exact types of problems your target companies are known for asking.
+- **Community-Driven Contributions:** Add questions you've encountered in your own interviews! Simply generate the parser file and contribute to help others in their preparation journey.
+
+### 🤝 How to Contribute?
+
+- **Add Your Questions:** Have you come across a question in an interview that's not in the repo? You can easily contribute it! Just generate the parser file and submit a pull request to share your insights with the community.
+
+---
+
+Elevate your interview prep to the next level and land your dream job with confidence! Happy coding! 😎
+
+--- 
+
+
 |No|Company|
 |-----|----|
 |1|[Accolite Alltime](./markdown/accolite_alltime.md)|
